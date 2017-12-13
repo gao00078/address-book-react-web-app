@@ -1,0 +1,31 @@
+.title {
+  width: 98%;
+  font-size: 48px;
+  border: solid grey 3px;
+  background-color: lightblue; }
+
+.detail-profile {
+  margin-top: 2rem;
+  font-size: 2rem; }
+
+.column {
+  float: left;
+  padding: 20px; }
+  .column .list {
+    width: 30%;
+    height: 100%; }
+  .column .details {
+    width: 80%;
+    clear: both; }
+  .column .data p {
+    margin-top: 4px;
+    margin-bottom: 2px; }
+
+.contact .row {
+  display: inline-block;
+  width: 100%; }
+
+ul {
+  list-style-type: none; }
+
+/*# sourceMappingURL=main.css.map*/
