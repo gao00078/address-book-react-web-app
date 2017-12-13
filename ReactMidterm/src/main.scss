@@ -1,0 +1,39 @@
+$base-fontsize: 16px;
+  .title {
+    width: 98%;
+    font-size: $base-fontsize * 3;
+    border: solid grey 3px;
+	  background-color: lightblue;
+}
+
+.detail-profile{
+  margin-top: 2rem;
+  font-size: 2rem;
+}
+  .column {
+    float: left;
+    padding: 20px;
+.list {
+      width: 30%;
+      height: 100%;
+    }
+    .details {
+      width: 80%;
+		clear: both;
+    }
+	 .data {
+		 p{
+			 margin-top: 4px;
+			 margin-bottom: 2px;
+		 }
+	  }
+}
+
+  .contact {
+      .row {
+    display: inline-block;
+    width: 100%; }
+}
+  ul {
+    list-style-type: none;
+}
